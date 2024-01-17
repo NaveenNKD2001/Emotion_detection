@@ -1,2 +1,2 @@
 # Emotion_detection
-I used FER-2013 to detect the emotion in the images of people
+In this project, I created a model that detects the emotion of the perfon in the image. I used FER-2013 to train and validate the model.
